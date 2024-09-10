@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 </a>
 
 
- # 한개
- ## 두개
- <h1>에이치원</h1> <h2>에이치투</h2> <h3>에이치쓰리</h3>
+ <h1>안녕하세요</h1> <h2>양유진입니다</h2>
